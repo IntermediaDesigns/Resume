@@ -51,7 +51,7 @@ body{
     height: 100%;
     background-color: #39b1cfa2;
     background: linear-gradient(rgba(47, 118, 160, 0.83), rgba(28, 45, 61, .98)), 
-        url('/images/bkgrd.jpg');    
+        url('../images/bkgrd.jpg');    
     background-size: contain;    
     background-attachment: fixed;
     background-repeat: no-repeat;
